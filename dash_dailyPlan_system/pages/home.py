@@ -38,6 +38,6 @@ layout = dbc.Container([
         dbc.Col([
             dbc.Row([html.Div('11111')], style=CONTAINER_STYLE),
             dbc.Row([html.Div('22222222')], style=CONTAINER_STYLE)
-        ], style={'row-gap': '10px'}),
+        ], style={'row-gap': '10px'}, width=4),
     ], style={'column-gap': '15px'}),
 ])
