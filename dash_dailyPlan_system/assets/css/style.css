@@ -1,0 +1,21 @@
+html,body{
+    background-color: #ffffff;
+    color: #000000;
+    text-align: left;
+    margin: 1%;
+    padding: 1%;
+    width: 100%;
+    max-width: 1800px;
+    font-family: 'Sans ser-if';
+}
+
+container-frame{
+    border-style: 'solid';
+    border-width: 3px;
+    background-color: '#009664'
+}
+
+title-style {
+    font-size: '24px';
+    font-weight: 'bold'
+}
