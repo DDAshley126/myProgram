@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9d55776-4c44-436b-b613-08b560fae746" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dash_dailyPlan_system/assets/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dash_dailyPlan_system/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dash_dailyPlan_system/pages/home.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dash_dailyPlan_system/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/dash_dailyPlan_system/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dash_dailyPlan_system/callbacks/callbacks.py" beforeDir="false" afterPath="$PROJECT_DIR$/dash_dailyPlan_system/callbacks/callbacks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dash_dailyPlan_system/pages/page1.py" beforeDir="false" afterPath="$PROJECT_DIR$/dash_dailyPlan_system/pages/page1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dash_dailyPlan_system/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/dash_dailyPlan_system/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dash_dailyPlan_system/.venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/dash_dailyPlan_system/.venv/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dash_dailyPlan_system/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/dash_dailyPlan_system/assets/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

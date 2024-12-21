@@ -1,7 +1,7 @@
 html,body{
     background-color: #ffffff;
     color: #000000;
-    text-align: left;
+    text-align: center;
     margin: 1%;
     padding: 1%;
     width: 100%;
@@ -12,7 +12,8 @@ html,body{
 container-frame{
     border-style: 'solid';
     border-width: 3px;
-    background-color: '#009664'
+    background-color: '#009664';
+    borde-color: 'black'
 }
 
 title-style {
